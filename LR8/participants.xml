@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conference>
+    <participant>
+        <firstName>Andrii</firstName>
+        <lastName>Sviatovets</lastName>
+        <organization>KhNU V. N. Karazin</organization>
+        <reportTitle>IoT</reportTitle>
+        <section>13</section>
+    </participant>
+    <participant>
+        <firstName>Dmytro</firstName>
+        <lastName>Vostryshev</lastName>
+        <organization>KhNU V.N. Karazin</organization>
+        <reportTitle>AI in modern world</reportTitle>
+        <section>12</section>
+    </participant>
+</conference>
